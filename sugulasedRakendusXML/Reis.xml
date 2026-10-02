@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<reisid>
+	<reis aasta='2026'>
+		<suund id="United States">
+			<Nimetus>Lane</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>1003.99</Hind>
+		</suund>
+		<suund id="Russia">
+			<Nimetus>Point</Nimetus>
+			<Riik>South Africa</Riik>
+			<Pikkus>1.5</Pikkus>
+			<Hind>24.99</Hind>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Parkway</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>1.5</Pikkus>
+			<Hind>14.99</Hind>
+		</suund>
+		<suund id="Finland">
+			<Nimetus>Center</Nimetus>
+			<Riik>Portugal</Riik>
+			<Pikkus>4</Pikkus>
+			<Hind>18.99</Hind>
+		</suund>
+		<suund id="Malaysia">
+			<Nimetus>Street</Nimetus>
+			<Riik>Japan</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>249.99</Hind>
+		</suund>
+		<suund id="China">
+			<Nimetus>Place</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>14.99</Hind>
+		</suund>
+		<suund id="Argentina">
+			<Nimetus>Avenue</Nimetus>
+			<Riik>Bulgaria</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>49.99</Hind>
+		</suund>
+		<suund id="Philippines">
+			<Nimetus>Street</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>15.99</Hind>
+		</suund>
+		<suund id="Bulgaria">
+			<Nimetus>Trail</Nimetus>
+			<Riik>Morocco</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>24.99</Hind>
+		</suund>
+		<suund id="France">
+			<Nimetus>Park</Nimetus>
+			<Riik>South Korea</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>3.49</Hind>
+		</suund>
+		<suund id="China">
+			<Nimetus>Plaza</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>1.5</Pikkus>
+			<Hind>3.49</Hind>
+		</suund>
+		<suund id="Japan">
+			<Nimetus>Center</Nimetus>
+			<Riik>Philippines</Riik>
+			<Pikkus>1.5</Pikkus>
+			<Hind>44.99</Hind>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Center</Nimetus>
+			<Riik>Syria</Riik>
+			<Pikkus>1.5</Pikkus>
+			<Hind>24.99</Hind>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Plaza</Nimetus>
+			<Riik>Macedonia</Riik>
+			<Pikkus>1.5</Pikkus>
+			<Hind>39.99</Hind>
+		</suund>
+		<suund id="France">
+			<Nimetus>Avenue</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>5</Pikkus>
+			<Hind>4.99</Hind>
+		</suund>
+		<suund id="Ethiopia">
+			<Nimetus>Point</Nimetus>
+			<Riik>Russia</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>3.29</Hind>
+		</suund>
+		<suund id="China">
+			<Nimetus>Drive</Nimetus>
+			<Riik>France</Riik>
+			<Pikkus>4.5</Pikkus>
+			<Hind>2.99</Hind>
+		</suund>
+		<suund id="Panama">
+			<Nimetus>Street</Nimetus>
+			<Riik>United States</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>1.29</Hind>
+		</suund>
+		<suund id="Portugal">
+			<Nimetus>Pass</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>3.79</Hind>
+		</suund>
+		<suund id="Syria">
+			<Nimetus>Center</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>59.99</Hind>
+		</suund>
+		<suund id="Greece">
+			<Nimetus>Parkway</Nimetus>
+			<Riik>France</Riik>
+			<Pikkus>17</Pikkus>
+			<Hind>2.49</Hind>
+		</suund>
+		<suund id="Russia">
+			<Nimetus>Pass</Nimetus>
+			<Riik>Thailand</Riik>
+			<Pikkus>1.5</Pikkus>
+			<Hind>6.49</Hind>
+		</suund>
+		<suund id="China">
+			<Nimetus>Hill</Nimetus>
+			<Riik>Croatia</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>4.29</Hind>
+		</suund>
+		<suund id="Portugal">
+			<Nimetus>Street</Nimetus>
+			<Riik>Brazil</Riik>
+			<Pikkus>5</Pikkus>
+			<Hind>79.99</Hind>
+		</suund>
+		<suund id="Cameroon">
+			<Nimetus>Place</Nimetus>
+			<Riik>Brazil</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>2.29</Hind>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Road</Nimetus>
+			<Riik>Portugal</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>39.99</Hind>
+		</suund>
+		<suund id="Venezuela">
+			<Nimetus>Court</Nimetus>
+			<Riik>Sweden</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>12.99</Hind>
+		</suund>
+		<suund id="Gambia">
+			<Nimetus>Street</Nimetus>
+			<Riik>Latvia</Riik>
+			<Pikkus>1.5</Pikkus>
+			<Hind>29.99</Hind>
+		</suund>
+		<suund id="Philippines">
+			<Nimetus>Lane</Nimetus>
+			<Riik>France</Riik>
+			<Pikkus>4</Pikkus>
+			<Hind>2.99</Hind>
+		</suund>
+		<suund id="Ukraine">
+			<Nimetus>Parkway</Nimetus>
+			<Riik>Argentina</Riik>
+			<Pikkus>3</Pikkus>
+			<Hind>2.49</Hind>
+		</suund>
+	</reis>
+</reisid>
