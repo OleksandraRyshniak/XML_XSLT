@@ -74,6 +74,20 @@
   --bs-highlight-bg: #fff3cd;
 }
 
+table td {
+    border: 1px, solid, black;
+    text-align: center;
+}
+table th {
+    border: 1px, solid, black;
+    padding: 5px;
+    background-color: lightblue;
+    text-align: center;
+}
+table tbody tr:nth-child(odd) {
+    background-color: lightgray;
+}
+
 *,
 *::before,
 *::after {
